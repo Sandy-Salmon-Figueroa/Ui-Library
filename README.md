@@ -29,6 +29,3 @@ Esta es una colección de componentes de interfaz de usuario (UI) desarrollada c
 - ✅ **Pseudo-clases y elementos** (`:hover`, `::before`)
 - ✅ **Animaciones y transiciones**
 - ✅ **Convención de nombres BEM**
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y adaptarlo libremente.
